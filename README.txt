@@ -1,0 +1,1 @@
+Um eine Simulation zu starten, öffne "Normale_Berechnung.m" und führe diese aus.
